@@ -1,0 +1,31 @@
+header{
+    background-color: rgba(0, 0, 0, 0.836);
+}
+h2{
+    color: white;
+    
+    padding-inline-start: 10%;
+    
+}
+table{
+    padding-inline-start: 10%;
+
+}
+
+#abc{
+    color: gray;
+}
+
+img{
+    padding-inline-start: 10%;
+    
+}
+h3{
+    font-size: 40px;
+    padding-inline-start: 10%;
+    
+}
+p{
+    padding-inline-start: 10%;
+    
+}
